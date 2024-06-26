@@ -6,7 +6,7 @@ This is a [test](https://nuxtjs.org/) project bootstrapped by [`create-nuxt-app`
 
 [![test](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/codesandbox/codesandbox-template-nuxt/main)
 
-## Resources
+## Reéourcess
 
 - [CodeSandbox Projects — Docs](https://docs.codesandbox.io)
 - [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
